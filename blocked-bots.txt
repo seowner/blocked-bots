@@ -617,7 +617,6 @@ SetEnvIfNoCase User-Agent "ALittle\ Client" bad_bots
 SetEnvIfNoCase User-Agent "zgrab/0\.x" bad_bots
 SetEnvIfNoCase User-Agent "researchscan\.comsys\.rwth-aachen\.de" bad_bots
 SetEnvIfNoCase User-Agent "Bytespider" bad_bots
-SetEnvIfNoCase User-Agent "claudebot" bad_bots
 SetEnvIfNoCase User-Agent "colly\ -\ https://github\.com/gocolly/colly/v2" bad_bots
 SetEnvIfNoCase User-Agent "URLSuMaBot" bad_bots
 SetEnvIfNoCase User-Agent "Spawning-AI" bad_bots
